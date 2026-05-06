@@ -19,6 +19,7 @@ int main(void) {
 	for (int i = 0; i < size; i++) {
 		// 열 출력
 		for (int j = 0; j < i; j++) {
+
 				cout << " "; 	
 			
 		}
